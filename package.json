@@ -36,5 +36,5 @@
     ]
     
   },
-  "proxy": "http://futbol.test/api"
+  "proxy": "http://localhost:8000/api"
 }
